@@ -38,7 +38,6 @@
 
 ---
 
-### 🐍 Meus commits sendo devorados
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucasbraga49x-png/lucasbraga49x-png/output/github-contribution-grid-snake-dark.svg">
